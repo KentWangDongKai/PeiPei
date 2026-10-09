@@ -1,21 +1,26 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 513235ee0f1d53f9f30eddbe88a245af_9182aa64bca211f18442525400de85a5
-    ReservedCode1: pGsfSiUcBJPZ7/JsKjlL6Wq9AUzYAwY1I8R6mSXpGCMOgZkvkBq6PzqzfqrNVXM48Mp/Flp0KWjd1AIFPLxwlh+23LaT6pTlgZqfPK/RPDiyuUqOnd6Ka0jSAsKzR9l0rL3ywHiDgNHJ/tMmXYgfPbWkQStFx0F9lWS00g2k4lYKjOV4TtfgQxj5RHA=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 513235ee0f1d53f9f30eddbe88a245af_9182aa64bca211f18442525400de85a5
-    ReservedCode2: pGsfSiUcBJPZ7/JsKjlL6Wq9AUzYAwY1I8R6mSXpGCMOgZkvkBq6PzqzfqrNVXM48Mp/Flp0KWjd1AIFPLxwlh+23LaT6pTlgZqfPK/RPDiyuUqOnd6Ka0jSAsKzR9l0rL3ywHiDgNHJ/tMmXYgfPbWkQStFx0F9lWS00g2k4lYKjOV4TtfgQxj5RHA=
----
+<div align="center">
 
-# Peipei · 工作记录
+<img src="assets/logo.png" width="200" alt="PeiPei" />
 
-一个**免安装、双击即用**的 Windows 工作记录小工具。
+# PeiPei · 工作记录
+
+**一个免安装、双击即用的 Windows 工作记录小工具**
 
 记流水、清待办、出周报月报，还能和同一个局域网里的同事互相看见状态、互相派活。
 
 > 不用装环境、不用配数据库、不用注册账号、不用联网。下载 → 双击 → 开始记。
+
+</div>
+
+---
+
+## 界面预览
+
+| 启动页 | 工作台 |
+| :---: | :---: |
+| <img src="assets/screenshots/01-splash.png" alt="启动页" /> | <img src="assets/screenshots/02-main.png" alt="工作台主界面" /> |
+| **牛马同事** —— 同局域网自动发现同事 | **牧场** —— 工作组与任务流转 |
+| <img src="assets/screenshots/03-peers.png" alt="牛马同事" /> | <img src="assets/screenshots/04-pasture.png" alt="牧场" /> |
 
 ---
 
@@ -58,7 +63,7 @@ AIGC:
 
 ## 下载
 
-到本仓库右侧的 **[Releases](../../releases)** 页面下载：
+到本仓库右侧的 **[Releases](https://github.com/KentWangDongKai/PeiPei/releases)** 页面下载：
 
 | 你的系统 | 下载哪个文件 | 大小 |
 | --- | --- | --- |
@@ -80,7 +85,7 @@ AIGC:
 ### 想和同事协作？
 
 1. 确保大家的电脑连在**同一个局域网**（同一个 Wi-Fi 或同一个公司网络）；
-2. 每个人打开程序后，在「局域网同事」里就能看到彼此；
+2. 每个人打开程序后，在「牛马同事」里就能看到彼此；
 3. 选中同事即可派发任务，对方不需要任何额外设置。
 
 ---
@@ -108,7 +113,7 @@ AIGC:
 
 欢迎提建议、报 Bug、许愿新功能：
 
-- 点上方 **Issues** 标签 → **New Issue**，把你的想法写下来；
+- 点上方 **[Issues](https://github.com/KentWangDongKai/PeiPei/issues)** 标签 → **New Issue**，把你的想法写下来；
 - 提之前可以先搜一下有没有人已经提过，避免重复。
 
 如果这个小工具帮到了你，给个 **Star** 就是最大的鼓励。
@@ -118,3 +123,4 @@ AIGC:
 ## 许可
 
 免费使用，详见 [LICENSE](LICENSE)。
+*（内容由AI生成，仅供参考）*
